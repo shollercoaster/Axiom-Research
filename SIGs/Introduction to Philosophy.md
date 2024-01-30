@@ -39,4 +39,44 @@ https://www.youtube.com/watch?v=Ij26p3_JVjo Great video.
 	- Practical: Can reason guide action and justify moral principles?
 - Limits of reasoning: cannot give knowledge of god, falls into contradiction
 - The green spectacle example: Phenomenal reality (physical realm through our spectacles) vs Noumenal reality (actual unpassable unknowable realm)
-- Newtonian and relative science talk about the physical realm through our spectacles. 
+- Newtonian and relative science talk about the physical realm through our spectacles.
+
+# Aristotle
+- All rounder
+- What makes people happy? 
+	- Good and successful people followed 11 virtues (always between 2 vices: **Golden Mean**)
+	- Had a definitive list of all 11 virtues in deficiency, mean and excess amounts.
+	- Change is possible
+- What is art for?
+	- Why tragedy befalls good people?  
+	- Catharsis and pity: leading a life with caution
+	- Jack lands Rose, but the titanic sinks
+- What are true friends for?
+	- Sometimes fun, sometimes strategic allegiance
+	- Friendship teaches us who to be, community wins
+- how can ideas cut through?
+	- Audience can be gauged not just through logic
+	- Confidence wins debate, not logic
+	- Rhetoric: Smart people must learn the skills to convince other people
+
+# Deontology
+- Immanuel Kant: Ethical actions follow universal moral lies (don't lie, steal or cheat)
+- Intuition of what is or isn't ethical, avoids subjectivity
+- Eg: let missile launch, or hack into the system
+
+# Role of Reason in Philosophy
+- Irrational vs incohorent (political biases, sound reality yet flawed judgement)
+
+# Dualism and Materialism
+- Materialism:
+	- only thing truly proven to exist is physical matter
+	- So all entities are the result of material interactions
+	- Related to physicalism, in contrast with idealism and solipsism
+	- Physicalism = sophisticated notion on wave particles and nothing supernatural
+- Dualism:
+	- Physical and mental are separate, but what is the mind?
+	- mind and the body are separate
+	- Mind = immaterial, non-spatial, private, non-observer and susceptible to feelings
+	- Body = physical, concrete and observable entity
+	- Yet Descartes: body is controlled by mind hence they interact
+		- But how? Psychophysical parallelism: in sync so delusion of interaction, yet they are only parallely functional (synced clocks)
