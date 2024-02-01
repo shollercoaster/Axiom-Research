@@ -1,4 +1,5 @@
 # Intro
+[[]]
 ## Importance of philosophy
 - Building First Principle thinking
 - Self awareness
@@ -12,18 +13,18 @@
 - Self development 
 
 # Branches of Philosophy
-- Metaphysics
-- Epistemology 
-	- Knowledge means latching on facts 
-	- Knowledge isn't belief
-	- Skepticism, knowledge = belief + truth + confidence and also good basis?
-- Ethics
-	- Laws: just/unjust, rules to guide judgement
-	- Morality: social pressures, give set of answers to basic ethical questions
-		- Usually moral formative process is subconscious
-	- Ethics: 
-		- based on conscious reflection, on our motives and purposes
-		- outside the purview of morality and laws 
+## Metaphysics
+## Epistemology 
+- Knowledge means latching on facts 
+- Knowledge isn't belief
+- Skepticism, knowledge = belief + truth + confidence and also good basis?
+## Ethics
+- Laws: just/unjust, rules to guide judgement
+- Morality: social pressures, give set of answers to basic ethical questions
+	- Usually moral formative process is subconscious
+- Ethics: 
+	- based on conscious reflection, on our motives and purposes
+	- outside the purview of morality and laws 
 
 # Modern Philosophy 
 https://www.youtube.com/watch?v=Ij26p3_JVjo Great video.
@@ -39,7 +40,7 @@ https://www.youtube.com/watch?v=Ij26p3_JVjo Great video.
 	- Practical: Can reason guide action and justify moral principles?
 - Limits of reasoning: cannot give knowledge of god, falls into contradiction
 - The green spectacle example: Phenomenal reality (physical realm through our spectacles) vs Noumenal reality (actual unpassable unknowable realm)
-- Newtonian and relative science talk about the physical realm through our spectacles.
+- Newtonian and relative science talk about the physical realm through our spectacles. 
 
 # Aristotle
 - All rounder
@@ -80,3 +81,8 @@ https://www.youtube.com/watch?v=Ij26p3_JVjo Great video.
 	- Body = physical, concrete and observable entity
 	- Yet Descartes: body is controlled by mind hence they interact
 		- But how? Psychophysical parallelism: in sync so delusion of interaction, yet they are only parallely functional (synced clocks)
+	-
+# Philosophy of Consciousness
+- Descartes' Mind Body Problem
+- Emotions and feelings = ripples on lake of soul
+# Political Philosophy
